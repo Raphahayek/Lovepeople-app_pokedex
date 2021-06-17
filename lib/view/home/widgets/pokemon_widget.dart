@@ -1,6 +1,6 @@
 import 'package:app_pokedex_mvp/view/detail/detailpage.dart';
 import 'package:flutter/material.dart';
-import '../../model/pokemon.dart';
+import '../../../model/pokemon.dart';
 
 class PokemonWidget extends StatelessWidget {
   final Pokemon item;
